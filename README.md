@@ -1,9 +1,6 @@
-## Hi there 👋
 
 
-**n00rElh00da/n00relh00da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:<p align="center">
+<p align="center">
   <a href="https://github.com/n00relh00da">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Nour%20Elhouda" alt="Hello! I&#39;m Nour Elhouda" />
   </a>
@@ -82,6 +79,10 @@ Computer Science Graduate | AI Master's Student | Aspiring AI Software Engineer 
 <p align="center"><i>⭐️ From <a href="https://github.com/n00relh00da">n00relh00da</a></i></p>
 
 <!--
+## Hi there 👋
+**n00rElh00da/n00relh00da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
