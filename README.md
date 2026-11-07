@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **n00rElh00da/n00relh00da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:<p align="center">
@@ -81,7 +81,7 @@ Computer Science Graduate | AI Master's Student | Aspiring AI Software Engineer 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/n00relh00da">n00relh00da</a></i></p>
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
