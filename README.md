@@ -1,94 +1,161 @@
+<img src="assets/banner.svg" alt="Nour El Houda MILI, AI Software Engineering" width="100%">
 
+**AI Software Engineering | Python Backend | Applied Machine Learning**
 
-<p align="center">
-  <a href="https://github.com/n00relh00da">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=826&text=Hello!%20I'm%20Nour%20Elhouda" alt="Hello! I&#39;m Nour Elhouda" />
-  </a>
-</p>
+Computer Science graduate and Master's student in Artificial Intelligence, building full-stack applications with Python, FastAPI and React.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=835&height=44&lines=Building%20intelligent%20software%2C%20one%20project%20at%20a%20time." alt="Typing headlines" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363D?style=flat-square)](https://linkedin.com/in/n00relh00da) [![Email](https://img.shields.io/badge/Email-30363D?style=flat-square)](mailto:noure4257@gmail.com)
 
-### 🚀 About Me
+## ![](assets/mark-green.svg) About
 
-Computer Science Graduate | AI Master's Student | Aspiring AI Software Engineer | Python • FastAPI • React • Machine Learning.
+I'm most interested in the engineering around AI: dependable backends, careful handling of real data, and verifying that a system behaves the way it claims to. The projects below are early-career work, and each one states what works and what is still in progress.
 
-🔭 &nbsp;I'm currently working on **Building Tailorina, an AI-powered platform, and developing data-driven applications with Python, FastAPI, React, and machine learning.**  
-🌱 &nbsp;I'm currently learning **Advanced Machine Learning, AI Engineering, React, Software Architecture, and building reliable backend systems.**  
-👯 &nbsp;I'm looking to collaborate on **Open-source projects in Artificial Intelligence, Machine Learning, Python, and Backend Development. Always interested in building practical software solutions with other developers.**  
-💬 &nbsp;Ask me about **Python, C Programming, Object-Oriented Programming, Data Structures &amp; Algorithms, FastAPI, and AI-powered applications.**  
-⚡ &nbsp;Fun fact: **I enjoy turning ideas into practical software projects and learning by building.**
+## ![](assets/mark-green.svg) Featured projects
 
-### 🛠️ Tech Stack
+<table width="100%">
+<tr>
+<th width="64" align="center"><img src="assets/icon-shopper-signals.svg" width="44" height="44" alt=""></th>
+<th align="left">Shopper Signals</th>
+</tr>
+<tr>
+<td colspan="2">
+Analytics dashboard over a 100,000-event sample of the Kaggle eCommerce behavior dataset. Import script with dry-run mode and safe re-runs; exact duplicates collapsed, zero-price rows flagged. Google sign-in with server-side admin roles. pytest suite for import, analytics and API auth.<br>
+<img src="https://img.shields.io/badge/React-30363D?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/Vite-30363D?style=flat-square" alt="Vite">
+<img src="https://img.shields.io/badge/Recharts-30363D?style=flat-square" alt="Recharts">
+<img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square" alt="FastAPI">
+<img src="https://img.shields.io/badge/MongoDB-30363D?style=flat-square" alt="MongoDB">
+<img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/pytest-30363D?style=flat-square" alt="pytest"><br>
+<b>Status:</b> runs locally with documented setup. Some planned components and app-created orders are not implemented. No live demo.<br>
+<b>Repository:</b> <a href="https://github.com/n00rElh00da/ecommerce-analytics-dashboard">ecommerce-analytics-dashboard</a>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-</p>
+<table width="100%">
+<tr>
+<th width="64" align="center"><img src="assets/icon-tailorina.svg" width="44" height="44" alt=""></th>
+<th align="left">Tailorina</th>
+</tr>
+<tr>
+<td colspan="2">
+Web application exploring vision AI to help customers describe garments to tailors. Intended flow: a customer uploads a garment image, the React frontend sends it to a FastAPI backend, and the Google Gemini API analyzes it to return garment information.<br>
+<img src="https://img.shields.io/badge/React-30363D?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/Vite-30363D?style=flat-square" alt="Vite">
+<img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square" alt="FastAPI">
+<img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/Google_Gemini_API-6E40C9?style=flat-square" alt="Google Gemini API"><br>
+<b>Status:</b> early-stage MVP. The upload and analysis interface is deployed; the backend and AI analysis workflow are in development, and frontend-backend integration is not finished. Planned, not built: price estimation, tailor matching, customer and tailor profiles.<br>
+<b>Repository:</b> <a href="https://github.com/n00rElh00da/Tailorina">Tailorina</a>
+</td>
+</tr>
+</table>
 
-### 🔗 Connect With Me
+<table width="100%">
+<tr>
+<th width="64" align="center"><img src="assets/icon-migration-proof.svg" width="44" height="44" alt=""></th>
+<th align="left">Migration-Proof</th>
+</tr>
+<tr>
+<td colspan="2">
+Behavioral verification for SQLite to PostgreSQL migrations, built for the IBM Bob 2.0 hackathon (LabLab). A migration can pass every structural check and still change behavior, such as <code>LIKE</code> case-sensitivity or <code>NULL</code> ordering. An independent oracle runs the same application queries on both databases, classifies each difference with a counterexample, withholds test cases from the AI repair agent, and includes a mutation test showing the verifier can fail a bad migration.<br>
+<img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/SQLite-30363D?style=flat-square" alt="SQLite">
+<img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQL-30363D?style=flat-square" alt="SQL"><br>
+<b>Status:</b> hackathon prototype. The oracle, comparator, held-out cases and mutation test are implemented and exercised on the SQLite side and with synthetic comparisons. Certified results from a live PostgreSQL run are not yet published in the repository.<br>
+<!-- UPDATE the status above after committing artifacts/verification.json, certificate.json and mutation-report.json from a real PostgreSQL run. -->
+<b>Repository:</b> <a href="https://github.com/n00rElh00da/Migration-Proof">Migration-Proof</a> | <a href="https://github.com/n00rElh00da/Migration-Proof/blob/master/migration-proof.drawio.png">workflow diagram</a>
+</td>
+</tr>
+</table>
 
-<p align="left">
-  <a href="https://linkedin.com/in/n00relh00da"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:noure4257@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## ![](assets/mark-green.svg) Technical skills
 
-### 📊 GitHub Stats
+<table>
+<tr>
+<th align="left">Area</th>
+<th align="left">Technologies</th>
+</tr>
+<tr>
+<td>Languages</td>
+<td>
+<img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/JavaScript-30363D?style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/badge/SQL-30363D?style=flat-square" alt="SQL"><br>
+<sub>Foundations: C, Java</sub>
+</td>
+</tr>
+<tr>
+<td>Backend and APIs</td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-30363D?style=flat-square" alt="FastAPI">
+<img src="https://img.shields.io/badge/Google_sign--in-30363D?style=flat-square" alt="Google sign-in">
+<img src="https://img.shields.io/badge/JWT-30363D?style=flat-square" alt="JWT"><br>
+<sub>Foundations: software architecture</sub>
+</td>
+</tr>
+<tr>
+<td>Frontend</td>
+<td>
+<img src="https://img.shields.io/badge/React-30363D?style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/Vite-30363D?style=flat-square" alt="Vite">
+<img src="https://img.shields.io/badge/Recharts-30363D?style=flat-square" alt="Recharts"><br>
+<sub>Foundations: HTML5, CSS3, Tailwind CSS, Figma</sub>
+</td>
+</tr>
+<tr>
+<td>Databases</td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-30363D?style=flat-square" alt="MongoDB">
+<img src="https://img.shields.io/badge/PostgreSQL-30363D?style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/SQLite-30363D?style=flat-square" alt="SQLite"><br>
+<sub>Foundations: MySQL, database design</sub>
+</td>
+</tr>
+<tr>
+<td>AI and data</td>
+<td>
+<img src="https://img.shields.io/badge/Google_Gemini_API-6E40C9?style=flat-square" alt="Google Gemini API"><br>
+<sub>Studying: machine learning, PyTorch, NumPy, Pandas</sub>
+</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>
+<img src="https://img.shields.io/badge/pytest-30363D?style=flat-square" alt="pytest">
+<img src="https://img.shields.io/badge/Differential_testing-30363D?style=flat-square" alt="Differential testing">
+<img src="https://img.shields.io/badge/Mutation_testing-30363D?style=flat-square" alt="Mutation testing"><br>
+<sub>Foundations: software testing</sub>
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td>
+<img src="https://img.shields.io/badge/Git-30363D?style=flat-square" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-30363D?style=flat-square" alt="GitHub">
+<img src="https://img.shields.io/badge/Vercel-30363D?style=flat-square" alt="Vercel"><br>
+<sub>Foundations: Linux, VS Code</sub>
+</td>
+</tr>
+<tr>
+<td>CS foundations</td>
+<td>Object-oriented programming, data structures and algorithms</td>
+</tr>
+<tr>
+<td colspan="2">Badges show technologies used in the projects above. Smaller text under each row lists foundations and areas of active study.</td>
+</tr>
+</table>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=n00relh00da&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=n00relh00da&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+## ![](assets/mark-violet.svg) Current learning
 
-### 📈 Contribution Graph
+- Machine learning fundamentals and PyTorch, alongside my Master's coursework.
+- Integrating vision and language model APIs into backends that stay reliable when the model output is not.
+- Testing and verification, especially for AI-generated or automatically migrated code.
+- Backend architecture, data validation and database design.
+- **TreeLab** (planning and prototype stage, not published here yet): an interactive platform for running machine learning experiments across multiple datasets.
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=n00relh00da&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
+## ![](assets/mark-green.svg) Contact
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/n00relh00da">n00relh00da</a></i></p>
-
-<!--
-## Hi there 👋
-**n00rElh00da/n00relh00da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to internships and junior roles, including international remote positions. The best way to reach me is [LinkedIn](https://linkedin.com/in/n00relh00da) or [email](mailto:noure4257@gmail.com).
